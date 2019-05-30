@@ -13,6 +13,10 @@ public class Test01 {
 		int[] ia3 = ArrayUtils.addAll(ia1, ia2);
 		
 		System.out.println( Arrays.toString(ia3) );
+		
+		System.out.println("----------------------");
+		
+		
 
 	}
 
